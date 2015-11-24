@@ -5,4 +5,4 @@ Task Manager is a simple single-page application built with [Nasdanika HTML Libr
 ![screenshot](http://www.nasdanika.org/task-manager/task-manager.png)
 
 ## Downloads
-* [TaskManager.war](http://www.nasdanika.org/task-manager/TaskManager.war).
+* [TaskManager.war](http://www.nasdanika.org/task-manager/TaskManager.war)
