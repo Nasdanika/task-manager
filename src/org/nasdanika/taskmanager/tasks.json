@@ -1,0 +1,31 @@
+[
+	{
+		"description": "Create a Dynamic Web Application (WAR) project",
+		"status": "Pending"
+	},
+	{
+		"description": "Add org.nasdanika.html-xxx.jar and Apache Commons Lang 3 jar to WEB-INF/lib folder",
+		"status": "Pending"
+	},
+	{
+		"description": "Create a servlet for rendering the application web page",
+		"status": "Pending"
+	},
+	{
+		"description": "Add links to Bootstrap, jQuery, AngularJS, and Font Awesome stylesheets and scripts to the head",
+		"status": "Pending"
+	},
+	{
+		"description": "Implement page rendering logic",
+		"status": "Pending"
+	},
+	{
+		"description": "Create and implement Angular module(s)",
+		"status": "Pending"
+	},
+	{
+		"description": "Create additional servlets and resources are required",
+		"status": "Pending"
+	}
+	
+]
